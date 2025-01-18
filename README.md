@@ -1,6 +1,6 @@
 # 2048 Game
 
-A simple implementation of the popular 2048 game, built using [language/framework/tool]. This project is perfect for those who want to learn game development basics or enhance their skills.
+A simple implementation of the popular 2048 game, built using HTML, CSS, and JavaScript. This project is perfect for learning basic game development or for those who enjoy a fun challenge.
 
 ## 🎮 How to Play
 
@@ -12,14 +12,13 @@ A simple implementation of the popular 2048 game, built using [language/framewor
 ## 📦 Features
 
 - Intuitive controls for seamless gameplay.
-- Responsive design, works on desktop and mobile.
 - Tracks the **highest score**.
 - Option to restart the game at any time.
-- Lightweight and fast performance.
+- Responsive design that works on both desktop and mobile devices.
 
 ## 🛠️ Installation
 
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/yourusername/2048-game.git
-   cd 2048-game](https://quochuylearningcode.github.io/2048-Game/)
+   git clone https://github.com/quochuylearningcode/2048-Game.git
+   cd 2048-Game
